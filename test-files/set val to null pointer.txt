@@ -1,0 +1,6 @@
+PROGRAM name
+WITH 
+B AS INTEGER
+IN
+A = 1
+END

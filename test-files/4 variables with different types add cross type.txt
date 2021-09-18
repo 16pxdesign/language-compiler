@@ -1,0 +1,9 @@
+PROGRAM name
+WITH 
+A, B AS INTEGER
+C, D AS REAL
+IN
+A = 1
+D = 3.0
+A = A + D
+END

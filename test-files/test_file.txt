@@ -1,0 +1,7 @@
+﻿PROGRAM Multiplication
+WITH x,y AS INTEGER
+IN 
+x = 5
+y = 2.6
+OUTPUT x * y
+END

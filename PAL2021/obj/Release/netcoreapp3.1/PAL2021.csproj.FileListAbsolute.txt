@@ -1,0 +1,14 @@
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\bin\Release\netcoreapp3.1\PAL2021.exe
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\bin\Release\netcoreapp3.1\PAL2021.deps.json
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\bin\Release\netcoreapp3.1\PAL2021.runtimeconfig.json
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\bin\Release\netcoreapp3.1\PAL2021.runtimeconfig.dev.json
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\bin\Release\netcoreapp3.1\PAL2021.dll
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\bin\Release\netcoreapp3.1\PAL2021.pdb
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\bin\Release\netcoreapp3.1\Ardkit.dll
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\obj\Release\netcoreapp3.1\PAL2021.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\obj\Release\netcoreapp3.1\PAL2021.AssemblyInfo.cs
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\obj\Release\netcoreapp3.1\PAL2021.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\obj\Release\netcoreapp3.1\PAL2021.csproj.CopyComplete
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\obj\Release\netcoreapp3.1\PAL2021.dll
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\obj\Release\netcoreapp3.1\PAL2021.pdb
+C:\Users\Bill\Desktop\PAL2021\PAL2021\PAL2021\obj\Release\netcoreapp3.1\PAL2021.genruntimeconfig.cache

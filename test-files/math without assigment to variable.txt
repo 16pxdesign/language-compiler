@@ -1,0 +1,8 @@
+
+PROGRAM name
+WITH 
+A, B AS INTEGER
+C, D AS REAL
+IN
+D - 1 + 5 * 2 
+END

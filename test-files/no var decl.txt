@@ -1,0 +1,5 @@
+PROGRAM name
+WITH 
+IN
+A = 1
+END

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PAL2021": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../test1.txt"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+﻿novardecl
+
+(3,1) : 'IN' found where 'Identifier' expected.
+
+
+assign a and set val
+0 errors found.
+
+set val to null pointer
+
+(5,1) :  Null point exception to variable 'A'.
+(5,1) :  Null point exception to variable 'A'.
+(5,5) :  Type conflict: 'Integer ("1")' is of type integer where undefined is expected.
+3 errors found.
+
+
+set real to int 
+
+
+(5,5) :  Type conflict: 'Real ("1.0")' is of type real where integer is expected.
+
+set val and add to other with no set its val
+
+0 errors found.
+
+4 variables with different types add cross type
+
+
+
+(8,9) :  Type conflict: 'Identifier ("D")' is of type real where integer is expected.
+
+
+multiple math operations 
+
+
+
+0 errors found.
+
+math without assigment to variable
+
+
+
+(6,3) : '-' found where '=' expected.
+(6,5) :  Type conflict: 'Integer ("1")' is of type integer where real is expected.
+
+
+simple loop 
+
+
+
+0 errors found.
+
+real to int in loop
+
+
+(8,16) :  Type conflict: 'Real ("2.0")' is of type real where integer is expected.
+
+bad operator in loop
+
+
+Program crush due to >=
+
+null point to E plus mix of bad type assigments
+
+
+
+(8,16) :  Type conflict: 'Real ("2.0")' is of type real where integer is expected.
+(10,8) :  Type conflict: 'Integer ("15")' is of type integer where real is expected.
+(11,10) :  Type conflict: 'Integer ("1")' is of type integer where real is expected.
+(12,10) :  Type conflict: 'Integer ("20")' is of type integer where real is expected.
+(14,15) :  Null point exception to variable 'E'.
+5 errors found.
+
+nested else multiple times
+
+
+(18,1) : 'ELSE' found where 'ENDIF' expected.
+
+nested loop in condition
+
+
+0 errors found.

@@ -1,0 +1,10 @@
+PROGRAM name
+WITH 
+A, B AS INTEGER
+C, D AS REAL
+IN
+A = A + 3
+A = A - 3 * B / A
+C = C * 3.0
+C = C / 3.0
+END
